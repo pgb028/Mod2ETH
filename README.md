@@ -1,6 +1,6 @@
 # FUNCTION FRONT-END
 
-This NodeJS program demonstrates an ETH atm using Metamask Wallet.
+This NodeJS program demonstrates an ETH Withdrawal and Deposit using Metamask Wallet.
 
 ## Description
 
