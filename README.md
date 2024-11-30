@@ -4,7 +4,7 @@ This NodeJS program demonstrates an ETH Withdrawal and Deposit using Metamask Wa
 
 ## Description
 
-This code is a React component for a webpage that interacts with the Ethereum blockchain using the MetaMask wallet and the ethers.js library. The component allows users to connect their MetaMask wallet, view their account balance, and perform actions such as depositing, withdrawing, and transferring Ether. It also interacts with a deployed smart contract.
+This code is a React component for a webpage that interacts with the Ethereum blockchain using the MetaMask wallet and the ethers.js library. The component allows users to connect their MetaMask wallet, view their account balance, and perform actions such as depositing and withdrawing Etherium. 
 
 ## CODE
 
