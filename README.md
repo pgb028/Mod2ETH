@@ -1,4 +1,4 @@
-# FUNCTION FRONT-END
+# ETH AVAX Module 2 Smart Contract Management
 
 This NodeJS program demonstrates an ETH Withdrawal and Deposit using Metamask Wallet.
 
