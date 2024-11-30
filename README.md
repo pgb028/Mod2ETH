@@ -203,7 +203,7 @@ export default function HomePage() {
 
   return (
     <main className="container">
-      <header><h1>Welcome to the Metacrafters ATM!</h1></header>
+     //Headertag Welcome to the Metacrafters ATM!
       {initUser()}
       <style jsx>{`
         .container {
